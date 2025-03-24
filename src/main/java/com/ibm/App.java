@@ -13,5 +13,7 @@ public class App
         {
             System.out.println(" i =" + i);
         }
+        System.out.println("project executed successfully");
+        System.out.println("welcome to CI/CD pipeline with Jenkins");
     }
 }
